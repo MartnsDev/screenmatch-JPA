@@ -1,4 +1,3 @@
-Curso 1/3 da formação Java & Spring Boot na Alura, esse foi dificil e tive que estudar e relembrar muitos conceitos, Tanto que fiquei mais de um mês.
-Nesse curso de 16 Horas explicou muitas coisas, mas aprendi na pratica foi utilizar o JPA, JPQL, Consultas no banco de dados, Utilização das API, Resolvi muitas exceções e problemas. 
+Com mais de 16 horas de conteúdo, o curso abordou temas essenciais para o desenvolvimento back-end com Spring Boot. Na prática, aprendi a trabalhar com JPA, JPQL, consultas no banco de dados, além de consumir APIs externas. Também enfrentei e resolvi diversas exceções e problemas reais durante o desenvolvimento, o que fortaleceu ainda mais minha experiência.
 
 Linkedin: [Linkedin](https://www.linkedin.com/in/matheusmartnsdev/)
